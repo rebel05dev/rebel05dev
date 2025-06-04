@@ -54,17 +54,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=a2ip-21&theme=algolia" alt="a2ip-21" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rebel05dev&theme=algolia" alt="rebel05dev" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="a2ip-21 Github Stats" src="https://github-readme-stats.vercel.app/api?username=a2ip-21&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="a2ip-21 Github Stats" src="https://github-readme-stats.vercel.app/api?username=rebel05dev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a2ip-21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a2ip-21" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebel05dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rebel05dev" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -74,4 +74,4 @@
   
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a2ip-21&layout=compact&theme=algolia" alt="a2ip-21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebel05dev&layout=compact&theme=algolia" alt="rebel05dev" /></a> </p>
